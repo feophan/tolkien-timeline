@@ -1,0 +1,17 @@
+
+<head>
+  <script src='https://unpkg.com/timelines-chart'></script>
+
+  <script src='./data.js'></script>
+</head>
+
+<body>
+  <script>
+
+    TimelinesChart()(document.body)
+      .zScaleLabel('My Scale Units')
+      .zQualitative(true)
+      .data(myData)
+      .segmentTooltipContent(d => d.data.note);
+  </script>
+</body>
