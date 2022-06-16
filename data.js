@@ -179,5 +179,20 @@ const myData =
         ]
       }
     ]
+  },
+  {
+    "group": "CEM",
+    "data": [
+      {
+        "label": "ENS",
+        "data": [
+          {
+            "timeRange": ["1951-01-01", "1952-12-31"],
+            "val": "OG",
+            "note": "'51-'52"
+          }
+        ]
+      }
+    ]
   }
 ]
