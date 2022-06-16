@@ -167,7 +167,7 @@ const myData =
         "label": "OP2",
         "data": [
           {
-            "timeRange": ["1950-01-01", "1959-12-31"],
+            "timeRange": ["1951-01-01", "1952-12-31"],
             "val": "OG",
             "note": "50s"
           },
@@ -187,7 +187,7 @@ const myData =
         "label": "ENS",
         "data": [
           {
-            "timeRange": ["1951-01-01", "1952-12-31"],
+            "timeRange": ["1951-01-01", "1952-07-02"],
             "val": "OG",
             "note": "'51-'52"
           }
