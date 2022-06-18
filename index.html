@@ -12,6 +12,6 @@
       .zScaleLabel('My Scale Units')
       .zQualitative(true)
       .data(myData)
-      .segmentTooltipContent(d => d.data.note);
+      .segmentTooltipContent(d => "Note: " + d.data.note + "<br>Name: " + d.data.name);
   </script>
 </body>

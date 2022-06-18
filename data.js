@@ -9,7 +9,8 @@ const myData =
           {
             "timeRange": ["1969-04-06", "1969-04-07"],
             "val": "OG",
-            "note": "6-Apr-69"
+            "note": "6-Apr-69",
+            "name": "Late Notes on Verbs"
           }
         ]
       },
@@ -190,6 +191,22 @@ const myData =
             "timeRange": ["1951-01-01", "1952-07-02"],
             "val": "OG",
             "note": "'51-'52"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": "QNS",
+    "data": [
+      {
+        "label": "NFC",
+        "data": [
+          {
+            "timeRange": ["1936-04-28", "1936-04-29"],
+            "val": "OG",
+            "note": "28-Apr-36",
+            "name": "Note on Final Consonants"
           }
         ]
       }
